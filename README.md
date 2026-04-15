@@ -1,2 +1,3 @@
-# dine-rush
-nothing much
+# Welcome to your Lovable project
+
+TODO: Document your project here
